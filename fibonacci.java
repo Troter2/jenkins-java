@@ -6,7 +6,7 @@ class Fibonacci{
         int t1 = 1;
         int t2;
 
-        n = 10;
+        n = 10
         for(int i = 1; i<=n; i++){
             t2=f;
             f=t1+f;
